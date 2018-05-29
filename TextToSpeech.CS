@@ -1,3 +1,8 @@
+// This is a simple text to speach program.
+// What this program does is takes string input and read it out loud to the user
+// It is made as window form, not a console application
+
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
